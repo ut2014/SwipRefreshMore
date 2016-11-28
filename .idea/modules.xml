@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RecycleRefreshLayout/RecycleRefreshLayout.iml" filepath="$PROJECT_DIR$/RecycleRefreshLayout/RecycleRefreshLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwipRefreshMore.iml" filepath="$PROJECT_DIR$/SwipRefreshMore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerrefreshlayout/recyclerrefreshlayout.iml" filepath="$PROJECT_DIR$/recyclerrefreshlayout/recyclerrefreshlayout.iml" />
+    </modules>
+  </component>
+</project>
